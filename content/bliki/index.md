@@ -1,6 +1,6 @@
 ---
 title: Bliki
-date: 2020-07-09T18:55:27+03:00
+date: 2020-07-10
 ---
 
 Here are my personal best practices on various aspects of life.

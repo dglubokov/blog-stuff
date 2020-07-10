@@ -21,32 +21,23 @@ pygmentscodefencesguesssyntax = true
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]  
     identifier = "posts"
     name = "posts"
     title = "posts"
     url = "/"
-    weight = 10
-
+    weight = 20
   [[menu.main]]
     identifier = "bliki"
     name = "bliki"
     title = "bliki"
     url = "/bliki/"
-    weight = 20  
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
-    weight = 30
-  
-  [[menu.main]]
-    identifier = "quotes"
-    name = "quotes"
-    title = "quotes"
-    url = "/quotes/"
-    weight = 40
+    weight = 30  
 
 [social]
   github = "https://github.com/idmitryz"
