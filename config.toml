@@ -1,0 +1,56 @@
+baseURL = "https://idmitryz.github.io"
+title = "idmitryz"
+languageCode = "en"
+defaultContentLanguage = "en"
+theme = "zozo"
+summaryLength = 100
+paginate = 4
+
+pygmentsUseClasses = true
+pygmentCodeFences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  description = "Bliki"
+  copyright = "Copyright © 2020 Glubokov Dmitry"
+  highlight = true
+  footerSlogan = "Мир | Труд | Дружба"
+  keywords = ["idmitryz","glubokov","biotech", "blog"]
+  enableMathJax = true
+  enableSummary = true   
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "bliki"
+    name = "bliki"
+    title = "bliki"
+    url = "/bliki/"
+    weight = 20  
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 30
+  
+  [[menu.main]]
+    identifier = "quotes"
+    name = "quotes"
+    title = "quotes"
+    url = "/quotes/"
+    weight = 40
+
+[social]
+  github = "https://github.com/idmitryz"
+  stack-overflow = "https://habr.com/ru/users/lamplampov/"
+  linkedin = "https://habr.com/ru/users/lamplampov/"
+  instagram = "https://habr.com/ru/users/lamplampov/"
+  telegram = "https://habr.com/ru/users/lamplampov/"

@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/idmitryz/idmitryz.github.io.git
+	branch = master
+[submodule "themes/zozo"]
+	path = themes/zozo
+	url = https://github.com/varkai/hugo-theme-zozo
