@@ -3,8 +3,8 @@ title = "idmitryz"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "zozo"
-summaryLength = 100
-paginate = 4
+summaryLength = 50
+paginate = 10
 
 pygmentsUseClasses = true
 pygmentCodeFences = true
@@ -17,7 +17,8 @@ pygmentscodefencesguesssyntax = true
   footerSlogan = "Мир | Труд | Дружба"
   keywords = ["idmitryz","glubokov","biotech", "blog"]
   enableMathJax = true
-  enableSummary = true   
+  enableSummary = true
+  mainSections = ["posts","post"]
 
 [menu]
   [[menu.main]]
@@ -37,11 +38,17 @@ pygmentscodefencesguesssyntax = true
     name = "bliki"
     title = "bliki"
     url = "/bliki/"
-    weight = 30  
+    weight = 30
+
+  [[menu.main]]
+    name = "tags"
+    weight = 40
+    identifier = "tags"
+    url = "/tags/"
 
 [social]
   github = "https://github.com/idmitryz"
   stack-overflow = "https://habr.com/ru/users/lamplampov/"
   linkedin = "https://habr.com/ru/users/lamplampov/"
-  instagram = "https://habr.com/ru/users/lamplampov/"
+  instagram = "https://www.instagram.com/dmitrydeliberate/"
   telegram = "https://habr.com/ru/users/lamplampov/"

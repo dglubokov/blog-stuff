@@ -1,7 +1,7 @@
 ---
-title: eating
+title: Eating
 date: 2020-07-09T18:57:27+03:00
-hidden: true
+wordcount: true
 ---
 
 Изложенные принципы питания основаны на аналитических трудах

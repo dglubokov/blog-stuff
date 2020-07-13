@@ -5,6 +5,8 @@ hidden: true
 draft: false
 ---
 
+{{< img src="https://i.ibb.co/qYsGktM/Untitled-Diagram.jpg" >}}
+
 Hi! My name is Dmitry and I love science, technologies and medicine. I am trying make this world a better place and help people.
 
 **Birth**: October 20, 1998, Moscow, Russia.
