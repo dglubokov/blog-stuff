@@ -1,5 +1,5 @@
-baseURL = "https://idmitryz.github.io"
-title = "idmitryz"
+baseURL = "https://dmtgk.github.io"
+title = "dmtgk"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "zozo"
@@ -47,8 +47,8 @@ pygmentscodefencesguesssyntax = true
     url = "/tags/"
 
 [social]
-  github = "https://github.com/idmitryz"
-  stack-overflow = "https://habr.com/ru/users/lamplampov/"
-  linkedin = "https://habr.com/ru/users/lamplampov/"
+  github = "https://github.com/dmtgk"
+  stack-overflow = "https://stackoverflow.com/users/11982188/glubokov"
+  linkedin = "https://www.linkedin.com/in/dmitry-glubokov-aa38311a6/"
   instagram = "https://www.instagram.com/dmitrydeliberate/"
-  telegram = "https://habr.com/ru/users/lamplampov/"
+  telegram = "https://t.me/dmtgk"
