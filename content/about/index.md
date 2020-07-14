@@ -56,7 +56,7 @@ Bachelor degree in Computer engineering.
 
 [Dubna Main](https://www.uni-dubna.ru/)
 
-[Dubna Branch](http://un-fkt.ru/)
+[Dubna Faculty](http://un-fkt.ru/)
 
 [Thesis](https://github.com/dmtgk/bachelor-diploma)
 
@@ -67,6 +67,14 @@ Bachelor degree in Computer engineering.
 Additional education in bioinformatics.
 
 [Institute site](https://bioinf.me/)
+
+### HSE Faculty of Mathematics
+
+**2018**
+
+Listener.
+
+[Faculty site](https://math.hse.ru/en/)
 
 ### Independent university of Moscow
 
