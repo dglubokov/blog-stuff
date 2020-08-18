@@ -5,7 +5,7 @@ hidden: true
 draft: false
 ---
 
-{{< img src="https://i.ibb.co/qYsGktM/Untitled-Diagram.jpg" >}}
+{{< img src="https://i.postimg.cc/4dpGc19r/circle-cropped-1.png" >}}
 
 Hello! My name is Dmitry and I am interested and work in science, technologies and medicine.
 

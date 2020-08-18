@@ -1,7 +1,6 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/idmitryz/idmitryz.github.io.git
-	branch = master
 [submodule "themes/zozo"]
 	path = themes/zozo
-	url = https://github.com/varkai/hugo-theme-zozo
+	url = https://github.com/varkai/hugo-theme-zozo.git
+[submodule "public"]
+	path = public
+	url = https://github.com/dmtgk/dmtgk.github.io
