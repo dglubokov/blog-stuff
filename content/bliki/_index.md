@@ -16,5 +16,6 @@ Each section is prioritized and contains a set of pages.
 5. [trans-thinking](/bliki/trans-thinking)
 6. [trans-disciplines](/bliki/trans-disciplines)
 7. [applied-disciplines](/bliki/applied-disciplines)
+8. [work](/bliki/work)
 
 
