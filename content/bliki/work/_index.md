@@ -4,4 +4,6 @@ date: 2020-09-15
 layout: single
 ---
 
-[math](/bliki/work/math)
+[computational thinking](/bliki/work/computing)
+
+[fast math](/bliki/work/math)
