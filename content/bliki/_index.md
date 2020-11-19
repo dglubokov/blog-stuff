@@ -9,13 +9,9 @@ Here are my personal best practices on various aspects of life.
 It is divided into sections. 
 Each section is prioritized and contains a set of pages.
 
-1. [base-health](/bliki/base-health)
-2. [physical-health](/bliki/physical-health)
-3. [functional](/bliki/functional)
-4. [thinking-base](/bliki/thinking-base)
-5. [trans-thinking](/bliki/trans-thinking)
-6. [trans-disciplines](/bliki/trans-disciplines)
-7. [applied-disciplines](/bliki/applied-disciplines)
-8. [work](/bliki/work)
-
+1. [zero-level](/bliki/1-zero-level)
+2. [thinking-base](/bliki/2-thinking-base)
+3. [trans-thinking](/bliki/3-trans-thinking)
+4. [trans-disciplines](/bliki/4-trans-disciplines)
+5. [applied-disciplines](/bliki/5-applied-disciplines)
 
