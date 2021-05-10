@@ -15,9 +15,11 @@ Hello! My name is Dmitry and I am interested and work in science, technologies a
 
 **Links**: [GitHub](https://github.com/dmtgk), [Stepik](https://stepik.org/users/38167950), [Habr](https://habr.com/ru/users/lamplampov/posts/)
 
+---
+
 ## SKILLS and INTERESTS
 
-**Biomed**: Bioinformatics. Computational biology. Ageing-related diseases.
+**Biomed**: Computational biology. Aging research. Ageing-related diseases.
 
 **Math**: Topological data analysis. Information geometry. Geometric methods.
 
@@ -25,13 +27,23 @@ Hello! My name is Dmitry and I am interested and work in science, technologies a
 
 **Languages**: Russian, English.
 
-**Programming languages**: Python, Go, Rust, Julia.
+**Programming languages**: Python, Go, C, JavaScript.
+
+---
 
 ## WORK EXPERIENCE
 
+### BostonGene
+
+**2021 - present**
+
+Python Developer and Bioinformatician. Working with tools for clinic oncologists.
+
+[BostonGene site](https://bostongene.com/)
+
 ### Omnicube (Netcube)
 
-**2019 - present**
+**2019 - 2021**
 
 Python and Go developer for IOT.
 
@@ -45,8 +57,19 @@ PHP and JavaScript developer.
 
 [QSOFT site](https://qsoftus.com/)
 
+---
 
 ## EDUCATION
+
+### National Research Nuclear University MEPhI
+
+**2020-2022**
+
+Master degree in Medical diagnostics systems.
+
+[MEPhI main](https://eng.mephi.ru/)
+
+[Program description](https://eng.mephi.ru/content/public/uploads/files/Program/ba/physbio/12.03.04_advanced_diagnostic_systems.pdf)
 
 ### University of Dubna
 
@@ -58,11 +81,11 @@ Bachelor degree in Computer engineering.
 
 [Dubna Faculty](http://un-fkt.ru/)
 
-[Thesis](https://github.com/dmtgk/bachelor-diploma)
+[Thesis](https://github.com/dmtgk/bachelor-diploma): *Predicting Failures in Laser Cutting Machines Based on Data Mining Methods*
 
 ### Institute of Bioinformatics, Moscow
 
-**2019 (first semester)**
+**2019**
 
 Additional education in bioinformatics.
 
@@ -72,7 +95,7 @@ Additional education in bioinformatics.
 
 **2018**
 
-Listener.
+Different advanced mathematics topics. Listener.
 
 [Faculty site](https://math.hse.ru/en/)
 
@@ -80,9 +103,11 @@ Listener.
 
 **2017-2018**
 
-Listener.
+Different advanced mathematics topics. Listener.
 
 [IUM site](https://ium.mccme.ru/english/index.html)
+
+---
 
 ## ACHIEVEMENTS
 
